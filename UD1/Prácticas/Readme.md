@@ -65,7 +65,6 @@ GitHub es una herramienta poderosa para el desarrollo de software colaborativo. 
 ## Bibliografía
 
 - Documentación oficial de GitHub: [https://docs.github.com](https://docs.github.com)
-- GitHub Learning Lab: [https://lab.github.com](https://lab.github.com)
 - GitHub Guides: [https://guides.github.com](https://guides.github.com)
 
 Esperamos que este informe te ayude a comprender las funciones básicas de GitHub y te permita comenzar a colaborar en proyectos de desarrollo de software de manera efectiva. ¡Buena suerte en tu viaje de desarrollo colaborativo!
