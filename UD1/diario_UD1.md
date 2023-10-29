@@ -43,8 +43,3 @@ En la parte de `Markdown`, he aprendido a:
 - Me gustaría profundizar en el flujo de trabajo en GitHub cuando se colabora en proyectos con equipos grandes.
 - Estaría interesado en aprender más sobre la integración de Markdown con otras herramientas y plataformas.
 - Quiero entender más sobre la seguridad en GitHub y cómo proteger mis repositorios.
-
----
-
-**Nota**: La imagen que he utilizado de "Chiquito" y las referencias humorísticas a "mi madre" y otros términos han sido empleados en un contexto educativo y de aprendizaje.
-
