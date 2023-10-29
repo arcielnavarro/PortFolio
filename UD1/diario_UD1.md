@@ -7,7 +7,6 @@ Durante esta unidad, he adquirido conocimientos sobre `GitHub` y cómo funciona 
 - Crear una cuenta en GitHub.
 - Instalar Git en mi ordenador local y comprobar la versión instalada.
 - Configurar Git en local con mi información de usuario.
-- Crear y editar un archivo en lenguaje C.
 - Inicializar un nuevo repositorio en GitHub y subir archivos.
 - Utilizar comandos básicos de Git como `git init`, `git add .`, `git commit -m "mensaje"` y `git push`.
 - Generar y utilizar tokens de acceso personal en GitHub.
