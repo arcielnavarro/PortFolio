@@ -16,17 +16,18 @@ El portfolio está estructurado en base a las Unidades Didácticas (UD) que vamo
 - [Diario de UD1](./UD1/diario_UD1.md)
 - [Enlaces de UD1](./UD1/enlaces_UD1.md)
 
-### UD2: Introducción a las Aplicaciones Web
-(Nota: Puedes seguir el formato anterior para esta unidad una vez que crees los archivos correspondientes)
+### [UD2: Introducción a las Aplicaciones Web](./UD2)
 
-### UD3: Apache en Ubuntu
-(Nota: De igual manera, puedes seguir el formato anterior para esta unidad una vez que crees los archivos correspondientes)
+- [Diario de UD2](./UD2/diario_UD2.md)
+- [Enlaces de UD2](./UD2/enlaces_UD2.md)
 
-## Comenzando con UD1
+### [UD3: Apache en Ubuntu](./UD3)
 
-Para la Unidad de **GitHub y MarkDown**, he realizado reflexiones y compilado enlaces que te invito a revisar:
+- [Diario de UD3](./UD3/diario_UD3.md)
+- [Enlaces de UD3](./UD3/enlaces_UD3.md)
 
-### [Diario de UD1](./UD1:%20GitHub%20y%20MarkDown/diario_UD1.md)
+
+### Diario de UD
 En este diario reflexiono sobre:
 
 - Lo que he aprendido.
@@ -34,10 +35,8 @@ En este diario reflexiono sobre:
 - Aspectos que más y menos me han gustado.
 - Temáticas que me gustaría seguir explorando.
 
-### [Enlaces de UD1](./UD1:%20GitHub%20y%20MarkDown/enlaces_UD1.md)
+### Enlaces de UD
 Este archivo contiene un índice de enlaces a los trabajos y ejercicios que he realizado durante esta unidad. Junto a cada enlace, he añadido una breve descripción para ofrecer una idea de lo que encontrarás.
-
----
 
 Gracias por visitar mi portfolio. Cualquier feedback es bienvenido!
 
