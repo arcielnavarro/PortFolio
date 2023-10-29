@@ -13,7 +13,7 @@ El portfolio está estructurado en base a las Unidades Didácticas (UD) que vamo
 
 ### [UD1: GitHub y MarkDown](./UD1:%20GitHub%20y%20MarkDown/)
 
-- [Diario de UD1](./UD1:%20GitHub%20y%20MarkDown/diario_UD1.md)
+- [Diario de UD1](./UD1:%20GitHub%20y%20MarkDow/diario_UD1.md)
 - [Enlaces de UD1](./UD1:%20GitHub%20y%20MarkDown/enlaces_UD1.md)
 
 ### UD2: Introducción a las Aplicaciones Web
