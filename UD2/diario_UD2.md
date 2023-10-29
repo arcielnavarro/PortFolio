@@ -44,8 +44,3 @@ En esta unidad, he profundizado en diversos temas relacionados con las aplicacio
 - Quisiera aprender más sobre optimizaciones y medidas de seguridad en el servidor Apache.
 - Me gustaría conocer más herramientas y técnicas para el monitoreo y diagnóstico de problemas en servidores web.
 - Estoy interesado en profundizar en las mejores prácticas para la configuración y gestión de servidores en entornos de producción.
-
----
-
-Gracias por la oportunidad de reflexionar sobre mis aprendizajes en esta unidad. Cada tema abordado ha enriquecido mi comprensión de las aplicaciones web y estoy emocionado por continuar explorando en unidades posteriores.
-
