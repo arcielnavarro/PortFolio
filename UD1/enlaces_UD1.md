@@ -24,4 +24,4 @@ El informe finaliza con conclusiones sobre la potencia de GitHub y enlaces útil
 
 **Descripción:** Una práctica enfocada en el uso de Markdown, haciendo uso de frases icónicas en un formato humorístico. El documento presenta varios elementos de Markdown, incluyendo encabezados, listas, bloques de código y más. Es una muestra de cómo se puede utilizar Markdown para estructurar y dar formato a un texto de manera efectiva.
 
-[Leer la práctica completa aquí.](./Markdown%20Prácticas/markdownPráctica.md)
+[Leer la práctica completa aquí.](./Markdown%20Práctica/markdownPráctica.md)
