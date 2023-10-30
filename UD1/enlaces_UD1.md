@@ -19,3 +19,9 @@
 El informe finaliza con conclusiones sobre la potencia de GitHub y enlaces útiles para quienes deseen profundizar en el tema.
 
 [Leer el informe completo aquí.](./GitHub%20+%20Markdown:%20Práctica/Readme.md)
+
+### [Markdown Práctica](./markdownPráctica.md)
+
+**Descripción:** Una práctica enfocada en el uso de Markdown, haciendo uso de frases icónicas en un formato humorístico. El documento presenta varios elementos de Markdown, incluyendo encabezados, listas, bloques de código y más. Es una muestra de cómo se puede utilizar Markdown para estructurar y dar formato a un texto de manera efectiva.
+
+[Leer la práctica completa aquí.](./markdownPráctica.md)
