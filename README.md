@@ -26,10 +26,10 @@ El portfolio está estructurado en base a las Unidades Didácticas (UD) que vamo
 - [Diario de UD3](./UD3/diario_UD3.md)
 - [Enlaces de UD3](./UD3/enlaces_UD3.md)
 
-### [UD4: Trabajo en remoto](./Ud4)
+### [UD4: Trabajo en remoto](./UD4)
 
-- [Diario de UD4](./UD2/diario_UD4.md)
-- [Enlaces de UD4](./UD2/enlaces_UD4.md)
+- [Diario de UD4](./UD4/diario_UD4.md)
+- [Enlaces de UD4](./UD4/enlaces_UD4.md)
 
 ### Diario de UD
 En este diario reflexiono sobre:
