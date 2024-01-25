@@ -16,7 +16,7 @@
 - **Configuración de Virtualhost:** Para acceder al proyecto a través de `www.<tu_nombre>.com` (1 punto).
 - **Documentación Completa:** Incluyendo imágenes, mapa del sitio y diseño de la interfaz (2 puntos).
 
-**Nota:** El enlace al proyecto y a la documentación no se incluye aquí, ya que se encuentra aún en fase de desarrollo
+**Nota:** El enlace al proyecto y a la documentación no se incluye aquí, ya que se encuentra aún en fase de desarrollo.
 ---
 
 El proyecto final ha sido una experiencia integral en la que he aplicado conocimientos de diseño web, Joomla, gestión de contenido, y alojamiento web, culminando en la creación de un sitio web profesional y funcional.
