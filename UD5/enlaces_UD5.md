@@ -24,4 +24,4 @@ Los resultados de estas investigaciones se compartieron y discutieron en reunion
 ---
 Esta documentación se ha creado en Google Docs.
 
-[Ver la documentación completa aquí.](https://drive.google.com/file/d/19gWRHeYRKs7DpxctdiSocWneJlS4Njtz/view?usp=sharing)
+[Ver la documentación completa aquí.]([https://drive.google.com/file/d/19gWRHeYRKs7DpxctdiSocWneJlS4Njtz/view?usp=sharing](https://drive.google.com/drive/search?q=entregable%20servidor)https://drive.google.com/drive/search?q=entregable%20servidor)
