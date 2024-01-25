@@ -27,3 +27,4 @@ Esta documentación se ha creado en Google Docs.
 [Ver la documentación completa aquí.](https://docs.google.com/document/d/1vmJNLVqjiLcXN6w1iRjiiy-6MvOpCEIOwRrW3l18QdU/edit#heading=h.ye4ylejr9w9v)
 
 Poster creado en Canvas.
+![imagen](https://github.com/arcielnavarro/examen-1era-evaluaci-n/blob/main/Im%C3%A1genes/ssh/conexion%20al%20servidor.png)
