@@ -24,4 +24,4 @@ Los resultados de estas investigaciones se compartieron y discutieron en reunion
 ---
 Esta documentación se ha creado en Google Docs.
 
-[Ver la documentación completa aquí.](https://drive.google.com/drive/search?q=entregable%20servidor)
+[Ver la documentación completa aquí.](https://docs.google.com/document/d/1vmJNLVqjiLcXN6w1iRjiiy-6MvOpCEIOwRrW3l18QdU/edit#heading=h.ye4ylejr9w9v)
