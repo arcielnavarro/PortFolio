@@ -1,48 +1,43 @@
-# Diario UD5: Actividad de Servidor Web
+# Diario UD5: Servidor Web
 
-## Formación de Grupos y Distribución de Roles
+## ¿Qué he aprendido?
 
-En esta unidad, formamos grupos de tres personas para investigar sobre los servidores web. Cada uno de nosotros asumió el rol de un "Experto" en un área específica:
-
-- **Experto A:** Enfocado en la naturaleza y composición de los servidores web, así como las diferentes versiones que existen.
-- **Experto B:** Investigó sobre las páginas web estáticas y dinámicas, los errores HTTP y exploró diferentes proveedores de hosting.
-- **Experto C:** Se concentró en los protocolos de internet, sus tipos y los puertos más comunes utilizados en la web.
-
-## Preguntas a Investigar
-
-Como parte del proceso, cada experto realizó una investigación autónoma sobre preguntas específicas:
+Durante esta unidad, me centré en la comprensión de los servidores web, las páginas web estáticas y dinámicas, los protocolos de internet y los puertos más comunes. Aquí resumo mis principales aprendizajes:
 
 ### Experto A
-- ¿Qué es un servidor web?
-- ¿Qué compone un servidor web?
-- ¿Qué versiones de servidores existen?
+- **Servidor Web:** Aprendí qué es un servidor web y comprendí su papel fundamental en la entrega de contenido a los usuarios en internet.
+- **Componentes:** Descubrí los elementos que componen un servidor web, incluyendo hardware y software.
+- **Versiones de Servidores:** Exploré diferentes tipos y versiones de servidores web, comprendiendo sus ventajas y desventajas.
 
 ### Experto B
-- ¿Qué son las páginas web estáticas y dinámicas? Características.
-- ¿Qué errores HTTP existen? Clasificación.
-- Búsqueda de páginas web de hosting.
+- **Páginas Web Estáticas y Dinámicas:** Entendí las diferencias clave entre estas dos y cómo impactan en la experiencia del usuario.
+- **Errores HTTP:** Aprendí sobre los diferentes errores HTTP y cómo clasificarlos.
+- **Hosting Web:** Investigué diversas opciones de hosting y su relevancia según el tipo de página web.
 
 ### Experto C
-- ¿Qué es un protocolo de internet?
-- ¿Qué tipos de protocolos existen?
-- ¿Cuáles son los puertos más comunes usados en internet?
+- **Protocolos de Internet:** Comprendí qué es un protocolo de internet y su importancia en la regulación del tráfico de datos.
+- **Tipos de Protocolos:** Descubrí diferentes protocolos y su aplicación en distintos contextos.
+- **Puertos Comunes:** Aprendí sobre los puertos más utilizados en internet y su propósito.
 
-## Reuniones de Expertos
+## ¿Qué no entiendo?
 
-Cada tipo de experto se reunió en grupos para discutir y llegar a un consenso sobre las respuestas encontradas. Fue una oportunidad para compartir conocimientos y perspectivas.
+- Aunque tengo una comprensión general de los servidores web, aún me resulta difícil entender algunas configuraciones avanzadas.
+- La clasificación de los errores HTTP y su resolución práctica es un área que requiere mayor profundización.
 
-## De Vuelta al Grupo Original
+## ¿Qué es lo que más me ha gustado y qué es lo que menos?
 
-De regreso en nuestros grupos originales, cada experto compartió sus hallazgos. Esta dinámica permitió una amplia comprensión de los diferentes aspectos de los servidores web.
+Lo que más me ha gustado:
+- La diversidad de temas tratados en esta unidad me brindó una comprensión holística del funcionamiento de la web.
+- Descubrir cómo funcionan las páginas web detrás de escena fue particularmente interesante.
 
-## Elaboración del Informe y Póster
+Lo que menos me ha gustado:
+- Algunos conceptos eran técnicos y requerían tiempo para ser completamente entendidos.
+- La cantidad de información a veces resultó abrumadora.
 
-Finalmente, combinamos toda la información recopilada en un informe y un póster. Este proceso fue esencial para consolidar nuestro entendimiento y presentar nuestras conclusiones de manera cohesiva.
+## ¿Qué más me gustaría saber relacionado con la Unidad?
 
-## Reflexiones y Aprendizajes
+- Me gustaría aprender más sobre la seguridad en servidores web y cómo prevenir ataques comunes.
+- Estoy interesado en profundizar en las últimas tendencias en tecnología de servidores web y hosting.
+- Quisiera explorar más sobre el desarrollo y mantenimiento de páginas web dinámicas.
 
-- **Experto A:** Comprendí profundamente qué es un servidor web y su estructura fundamental.
-- **Experto B:** Descubrí la diversidad y complejidad de las páginas web y los desafíos de la clasificación de errores HTTP.
-- **Experto C:** Aprendí sobre la importancia de los protocolos y puertos en el funcionamiento de internet.
-
-Esta unidad ha sido una experiencia enriquecedora y un ejercicio valioso en investigación colaborativa y presentación de información.
+Esta unidad ha sido una experiencia de aprendizaje integral, proporcionando conocimientos valiosos sobre los diferentes aspectos de los servidores web, su configuración y su funcionamiento en el entorno de internet.
