@@ -1,6 +1,6 @@
 # enlaces_UD6.md
 
-### [Documento de Investigación sobre Docker](https://docs.google.com/document/d/URL_DEL_DOCUMENTO)
+### Documento de Investigación sobre Docker
 
 **Descripción:** Este documento de Google Docs ofrece una comprensión profunda de Docker, una herramienta clave en la tecnología de contenedores. El contenido cubre varios aspectos importantes:
 
